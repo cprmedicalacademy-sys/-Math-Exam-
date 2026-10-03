@@ -351,7 +351,7 @@ export default function App() {
               <div className="text-center mb-8">
                 <div className="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 text-xs font-semibold px-3.5 py-1.5 rounded-full uppercase tracking-wider mb-3 border border-indigo-100">
                   <GraduationCap className="w-4 h-4" />
-                  <span>BCS Preliminary Mock Test Series</span>
+                  <span>BCS CRYSTAL BATCH EXAM SERIES</span>
                 </div>
                 <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mb-2 font-bengali">
                   গাণিতিক যুক্তি (Mathematical Reasoning)
