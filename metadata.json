@@ -1,0 +1,8 @@
+{
+  "name": "CPR Medical Academy - Math Exam Portal",
+  "description": "Special BCS Crystal Batch Online Math Examination Portal featuring 40 MCQs, timer, negative marking, question palette, and detailed answer review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
